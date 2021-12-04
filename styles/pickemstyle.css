@@ -1,0 +1,20 @@
+th{
+	color:#FFFFFF;
+	background-color: #000080;
+	font-size:16px;
+}
+td{
+	font-size:24px;
+	text-align: center;
+
+}
+img{
+	width:50;
+}
+.week{
+	display: none;	
+}
+body{
+	overflow-x: hidden;
+}
+
